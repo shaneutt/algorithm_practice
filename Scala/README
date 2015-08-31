@@ -1,0 +1,24 @@
+ShanesDijkstraTest
+------------------
+
+This is my Scala implementation of "Dijkstra's Algorithm" with some test cases.
+
+requires
+--------
+
+Scala version 2.11.7 (OpenJDK 64-Bit Server VM, Java 1.7.0_79)
+
+I included a copy of the Scala I used under `scala-2.11.7/bin/scala`
+
+(I built it with this setup, I'm sure it works with other versions)
+
+usage
+-----
+
+You can bootstrap it like this:
+
+	./build.sh
+
+Which will generate the test class and you can run the tests with
+
+	./runtests.sh

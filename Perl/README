@@ -1,0 +1,16 @@
+dijkstra.t
+----------
+
+This is a perl test file that tests the shortest_path function
+to demonstrate the implementation of Dijkstra's Algorithm in Perl.
+
+requires
+--------
+
+Perl 5
+
+usage
+-----
+
+prove -v dijkstra.t
+
