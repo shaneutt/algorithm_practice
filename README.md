@@ -1,2 +1,4 @@
-# dijkstra_practice
-Practicing Dijkstra's shortest-path algorithm in various languages
+Algorithm Practice
+===
+
+Notepad for various algorithms in an assortment of languages.
